@@ -1,6 +1,6 @@
 # Hello, Im Harshwardhan Vishwakarma!
 
--**IT engineering student, passionate about technology and open source development, constantly exploring and contributing to the dynamic world of IT.**
+- **IT engineering student, passionate about technology and open source development, constantly exploring and contributing to the dynamic world of IT.**
 - 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 ``` julia

@@ -77,7 +77,6 @@ main :: func(): void {
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avyoraj&show_icons=true&theme=vision-friendly-dark)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avyoraj&repo=github-readme-stats)](https://github.com/avyoraj/github-readme-stats)
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
 -

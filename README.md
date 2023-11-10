@@ -16,16 +16,12 @@
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,c,vim,python,cpp,discord,vscode,linux,windows" />
-  </a>
-</p>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![]
 
-# __OS I Use__
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
@@ -37,6 +33,8 @@
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avyoraj&show_icons=true&theme=vision-friendly-dark)
+
+
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
 -

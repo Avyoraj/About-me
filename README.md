@@ -2,7 +2,7 @@
 
 -🎓**IT Engineering Student, passionate about technology and open source development, constantly exploring and contributing to the dynamic world of IT.**
 
--❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+-♥️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
 -🎮**I like gaming but I never know which games I want to play and never play a game for long!**
 

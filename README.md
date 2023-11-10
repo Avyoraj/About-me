@@ -69,13 +69,12 @@ main :: func(): void {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [Sadie Programming Language](https://github.com/sadie-lang/Sadie)
+- 💻 **Open Source Development**
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=avyoraj&show_icons=true&hide_border=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avyoraj&show_icons=true&theme=vison-friendly-dark)
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
 - Write a tokenizer for [Sadie-lang](https://github.com/sadie-lang/Sadie)

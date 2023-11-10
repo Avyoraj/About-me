@@ -67,9 +67,7 @@
 I have achieved:
 -
 
-## Show ❤️ By Starring My Repos!
-
-
+---
 
 ## Social media
 [![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/44yKPxm)
@@ -79,4 +77,6 @@ I have achieved:
 
 ---
 
+## Show ❤️ By Starring My Repos!
+---
  ⭐️ Avyoraj

@@ -1,32 +1,21 @@
-# Hello, Im Harshwardhan Vishwakarma!
+# Hello, I'm Harshwardhan Vishwakarma!
 
-- **IT engineering student, passionate about technology and open source development, constantly exploring and contributing to the dynamic world of IT.**
-- 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+-🎓**IT Engineering Student, passionate about technology and open source development, constantly exploring and contributing to the dynamic world of IT.**
+-❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+-🎮**I like gaming but I never know which games I want to play and never play a game for long!**
+-👯‍♀**While I don't work much with others, I like to discuss coding with others and learn more**
+-📫**I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.**
+-❓**Want to know more about me? You can always contact me via several social media!**
 
-``` julia
-module main
 
-aboutMe :: struct {
-  pronouns :: string[];
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
-}
+## Social media
+[![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/44yKPxm)
+‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EdgyCoder)
+‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
+‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
+‎‎
 
-main :: func(): void {
-  ethan :: aboutMe = {
-    pronouns: ["He", "Him"],
-    languages: ["C", "C#", "Java", "Python"],
-    hobbies: ["Coding", "Gaming", "Talking"],
-    funFact: "The first computer virus was created in 1983!"
-  };
 
-  println "Pronouns: ${ethan.pronouns}";
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${ethan.hobbies}";
-  println "Fun Fact: ${ethan.funFact}";
-}
-```
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 

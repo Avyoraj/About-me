@@ -1,11 +1,17 @@
 # Hello, I'm Harshwardhan Vishwakarma!
 
 -🎓**IT Engineering Student, passionate about technology and open source development, constantly exploring and contributing to the dynamic world of IT.**
+
 -❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+
 -🎮**I like gaming but I never know which games I want to play and never play a game for long!**
+
 -👯‍♀**While I don't work much with others, I like to discuss coding with others and learn more**
+
 -📫**I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.**
+
 -❓**Want to know more about me? You can always contact me via several social media!**
+
 
 
 ## Social media

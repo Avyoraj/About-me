@@ -51,7 +51,7 @@
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avyoraj&show_icons=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avyoraj&show_icons=true&theme=github_dark)
 
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸

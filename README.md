@@ -82,6 +82,6 @@ I have achieved:
 
 ---
 
-## Show ❤️ By Starring My Repos!
+## Show 🌟 By Starring My Repos!
 ---
  ⭐️ Avyoraj

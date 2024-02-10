@@ -6,7 +6,7 @@
 
 -🎮**I like gaming but I never know which games I want to play and never play a game for long!**
 
--👯‍♀**While I don't work much with others, I like to discuss coding with others and learn more**
+-🗃️**While I don't work much with others, I like to discuss coding with others and learn more**
 
 -📫**I do not write blog posts and my Twitter is mostly used when I'm bored or waiting for something.**
 
